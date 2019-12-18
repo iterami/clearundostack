@@ -1,7 +1,7 @@
 {
   "name": "clearundostack",
   "main": "./lib/clearundostack",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Atom package that can clear the undo stack of the active text editor buffer.",
   "keywords": [
     "clearundostack"
@@ -14,6 +14,5 @@
   "engines": {
     "atom": "*"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
